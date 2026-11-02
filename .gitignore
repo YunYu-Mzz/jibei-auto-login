@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+credentials.json
+feishu_config.json
+*.pem
+*.key
+*.p12
+*.pfx
+cookies*
+state/
+logs/
+data/
